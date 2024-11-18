@@ -1,4 +1,5 @@
 # Medical Diagnosis Projects Repository
+![Medical Diagnosis Projects Banner](banner-no-text-final.png)
 
 ## Overview
 
