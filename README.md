@@ -1,4 +1,4 @@
-## Medical Diagnosis Projects[in Progress]
+## Medical Diagnosis Projects [_in Progress_]
 
 # Overview
 Welcome to my Medical Diagnosis Projects repository! In addition to social science and digital humanities research, I am very interesed in applying machine learning and AI-driven approaches to medical problems. This repository contains replication files and resources for projects focused on leveraging AI to address those challenges in medical diagnosis. The aim is to develop and share innovative, AI-driven solutions that enhance diagnostic accuracy, accessibility, and scalability in healthcare.
