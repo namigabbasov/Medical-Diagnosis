@@ -16,7 +16,7 @@ This repository contains a suite of projects exploring the application of deep l
    - [Chronic Kidney Disease](#4-chronic-kidney-disease)
    - [Tuberculosis](#5-tuberculosis)
    - [Diabetes](#6-diabetes)
-3. [Key Models and Tools](#key-technologies-and-models)
+3. [Key Models and Tools](#key-models-and-tools)
 4. [Results and Insights](#results-and-insights)
 5. [Acknowledgments](#acknowledgments)
 
