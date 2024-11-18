@@ -114,3 +114,6 @@ This repository explores the intersection of deep learning, machine learning, an
 - Deep learning models showed good performance in classifying medical images.
 - Combining image-based models with tabular data provided improved diagnostics in some projects.
 - Addressing class imbalance and using interpretability techniques proved crucial for real-world applicability.
+
+## Acknowledgments
+This repository uses publicly available datasets and pre-trained models to advance medical diagnosis research. Special thanks to the creators of these datasets and frameworks like TensorFlow, PyTorch, and Hugging Face for their contributions to open-source AI development.
