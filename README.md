@@ -112,6 +112,6 @@ This repository explores the intersection of deep learning, machine learning, an
    - Hugging Face Transformers
 
 ## Results and Insights
-Deep learning models showed good performance in classifying medical images.
-Combining image-based models with tabular data provided improved diagnostics in some projects.
-Addressing class imbalance and using interpretability techniques proved crucial for real-world applicability.
+- Deep learning models showed good performance in classifying medical images.
+- Combining image-based models with tabular data provided improved diagnostics in some projects.
+- Addressing class imbalance and using interpretability techniques proved crucial for real-world applicability.
