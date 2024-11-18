@@ -3,7 +3,7 @@
 
 ## Overview
 
-This repository contains a suite of projects exploring the application of deep learning and machine learning techniques to assist in medical diagnosis. The aim is to leverage advanced computational tools to complement the work of medical professionals by providing additional insights for diagnosis. While these models cannot replace traditional diagnostic methods or specialists, they demonstrate the immense potential of artificial intelligence in aiding medical decision-making.
+This repository contains a suite of projects exploring application of deep learning and machine learning techniques to assist in medical diagnosis. The aim is to leverage advanced computational tools to complement the work of medical professionals by providing additional insights for diagnosis. While these models cannot replace traditional diagnostic methods or specialists, they demonstrate immense potential of artificial intelligence in aiding medical diagnosis.
 
 ---
 
@@ -25,7 +25,7 @@ This repository contains a suite of projects exploring the application of deep l
 
 ## Introduction
 
-This repository explores the intersection of deep learning, machine learning, and medical diagnostics. It includes projects that analyze diverse data modalities such as X-ray images, fundus images, mammograms, and tabular datasets. Each project demonstrates the utility of AI in different medical fields, including pneumonia detection, diabetic retinopathy classification, breast cancer analysis, chronic kidney disease prediction, and tuberculosis diagnosis. Additionally, we investigate how statistical methods (NHST) can be merged with predictive modeling for diabetes research.
+This repository explores intersection of deep learning, machine learning, and medical diagnostics. It includes projects that analyze diverse data modalities such as X-ray images, fundus images, mammograms, and tabular datasets. Each project demonstrates utility of AI in different medical fields, including pneumonia detection, diabetic retinopathy classification, breast cancer analysis, chronic kidney disease prediction, and tuberculosis diagnosis. In addition, one of projects gauges how statistical methods (NHST) can be merged with predictive modeling for diabetes research.
 
 ---
 
@@ -38,7 +38,7 @@ This repository explores the intersection of deep learning, machine learning, an
   - Convolutional Neural Networks (CNNs)
   - Vision Transformers (ViT) and Swin Transformers
   - Pre-trained models from Hugging Face
-- **Outcomes**: Effective classification of X-ray images using deep learning models.
+- **Outcomes**: Classification of X-ray images into normal, covid-19, and noncovid viral.
 
 ---
 
@@ -57,18 +57,19 @@ This repository explores the intersection of deep learning, machine learning, an
 - **Objective**: Analyze imbalanced mammograms, histology images, and tabular data for breast cancer detection and prediction.
 - **Datasets**: 
   - Mammograms
+  - histology images
   - Wisconsin Breast Cancer dataset
 - **Models**:
-  - CNNs for image analysis
+  - CNNs and ViTs for image analysis
   - Machine learning algorithms (e.g., Random Forest, XGBoost) for tabular data
-- **Challenges**: Addressed class imbalance issues using resampling techniques and evaluation metrics such as F1-score.
+- **Challenges**: Addressed class imbalance issues using resampling techniques and evaluation metrics such as recall and F1-score.
 
 ---
 
 ### 4. Chronic Kidney Disease
 - **Objective**: Predict chronic kidney disease outcomes using tabular data.
 - **Datasets**: Chronic Kidney Disease datasets with clinical features.
-- **Models**: Machine learning algorithms like Logistic Regression, Decision Trees, and Gradient Boosting.
+- **Models**: Machine learning algorithms 
 - **Outcomes**: Developed interpretable models to predict disease presence.
 
 ---
@@ -86,7 +87,7 @@ This repository explores the intersection of deep learning, machine learning, an
 ### 6. Diabetes
 - **Objective**: Merge Null Hypothesis Statistical Testing (NHST) with predictive modeling to explore diabetes-related trends.
 - **Datasets**: Diabetes tabular datasets.
-- **Models**: Conventional machine learning algorithms (e.g., SVM, Random Forest, Logistic Regression).
+- **Models**: significance tests with statistical models and prediction with conventional machine learning algorithms.
 - **Outcomes**: Combined statistical and predictive modeling insights to study diabetes-related outcomes.
 
 ---
@@ -98,12 +99,13 @@ This repository explores the intersection of deep learning, machine learning, an
    - Vision Transformers (ViT)
    - Swin Transformers
    - U-Net (for segmentation tasks)
+   - pre-trained models from Hugging Face models 
 
 2. **Machine Learning Algorithms**:
-   - Logistic Regression
-   - Random Forest
-   - Gradient Boosting
-   - Support Vector Machines (SVM)
+   - classification algoritihms 
+   - Optimization
+   - Regularization
+   - Ensemble learning
 
 3. **Tools and Libraries**:
    - TensorFlow/Keras
