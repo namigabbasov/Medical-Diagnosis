@@ -1,5 +1,5 @@
 # Medical Diagnosis Projects Repository
-![Medical Diagnosis Projects Banner](banner-no-text-final.png)
+![Medical Diagnosis Projects Banner](medAI.png)
 
 ## Overview
 
