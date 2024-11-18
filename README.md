@@ -1,6 +1,6 @@
-                                                          # Medical Diagnosis Projects
+## Medical Diagnosis Projects
 
-## Overview
+# Overview
 Welcome to the Medical Diagnosis Projects repository! This repository contains replication files and resources for projects focused on leveraging Artificial Intelligence (AI) to address challenges in medical diagnosis. The aim is to develop and share innovative, AI-driven solutions that enhance diagnostic accuracy, accessibility, and scalability in healthcare.
 
 # Key Features
