@@ -4,7 +4,7 @@
 
 ## Overview
 
-This repository contains a suite of projects exploring application of deep learning and machine learning techniques to assist in medical diagnosis. The aim is to leverage advanced computational tools to complement the work of medical professionals by providing additional insights for diagnosis. While these models cannot replace traditional diagnostic methods or specialists, they demonstrate immense potential of artificial intelligence in aiding medical diagnosis.
+This repository contains a suite of projects exploring the application of deep learning and machine learning techniques to assist in medical diagnosis. The aim is to leverage advanced computational tools to complement the work of medical professionals by providing additional insights for diagnosis. While these models cannot replace traditional diagnostic methods/specialists, they demonstrate the immense potential of artificial intelligence in aiding medical diagnosis. This work reflects my passion for using data science and deep learning for medical diagnostics. I plan to expand this work by undertaking unique and original projects in the future. One direction I am particularly interested in is using new AI models to develop personalized applications in the medical field. 
 
 ---
 
@@ -117,7 +117,7 @@ This repository explores intersection of deep learning, machine learning, and me
 ## Results and Insights
 - Deep learning models showed good performance in classifying medical images.
 - Combining image-based models with tabular data provided improved diagnostics in some projects.
-- Addressing class imbalance and using interpretability techniques proved crucial for real-world applicability.
+- Addressing class imbalance and using interpretability techniques proved useful for applicability.
 
 ## Acknowledgments
 This repository uses publicly available datasets and pre-trained models to advance medical diagnosis research. Special thanks to the creators of these datasets and frameworks like TensorFlow, PyTorch, and Hugging Face for their contributions to open-source AI development.
